@@ -24,4 +24,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for autonomous agent wallets. Verify agent wallet credentials before x402 micropayments and on-chain interactions. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 Work in progress, feel free to open a PR !

@@ -23,5 +23,6 @@ Autonomous agents are programs, powered by AI, that when given an objective are 
 
 - [langchain](https://github.com/hwchase17/langchain)
 - [GPT Agent Toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring and identity verification for autonomous agents on Solana. MCP server (`intel.twzrd.xyz/mcp`) lets agents verify peer-agent trustworthiness before delegating tasks or transferring funds.
 
 Work in progress, feel free to open a PR !
